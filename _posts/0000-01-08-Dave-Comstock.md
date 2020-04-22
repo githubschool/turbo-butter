@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Jean-Michel Jarre playing the laser harp @ The Greek Theatre, Berkeley 05/26/2017
 
-![droidtocat](https://octodex.github.com/images/droidtocat.png)
+![laserharp](https://github.com/githubschool/turbo-butter/blob/dave-add-caption/_posts/Fun%20With%20Lasers.jpg)
 {: .center}
