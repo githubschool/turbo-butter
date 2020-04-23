@@ -28,4 +28,4 @@ Pellentesque habitant morbi tristique senectus. In hac habitasse platea dictumst
 - Dui nunc mattis enim ut.
 
 ## 
-You can also link to other documents [here](./docs/day1.md), like so.
+You can also link to other documents [here](./day1.md), like so.
